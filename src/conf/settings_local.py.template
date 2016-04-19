@@ -1,0 +1,9 @@
+"""
+Django developers settings for conf project.
+"""
+
+DEBUG = True
+
+TEMPLATE_DEBUG = DEBUG
+
+ONE_C_WSDL = ''

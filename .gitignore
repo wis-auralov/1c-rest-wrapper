@@ -1,0 +1,15 @@
+/.idea/
+/.project
+/.pydevproject
+/.settings/
+/bin
+*~
+*.pyc
+*.pyo
+/.hg/
+/media/
+/static/
+/public/
+bootstrap.py
+settings_local.py
+*.sqlite*
